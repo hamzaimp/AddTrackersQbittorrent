@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Config>
+  <!--Server URL is configured in QBitTorrent's settings. I think 8080 is default so you might have to change that-->
+  <Server url="http://localhost:8081" username="admin" password="admin"/>
+  <!--Text file of tracker URLs, seperated per line-->
+  <TrackersFilePath>trackers.txt</TrackersFilePath>
+</Config>

@@ -1,0 +1,9 @@
+﻿POST /login HTTP/1.1
+User-Agent: Fiddler
+Host: localhost:8081
+Content-Type: application/x-www-form-urlencoded
+Content-Length: length
+Username: admin
+Password: admin
+
+username=admin&password=admin
